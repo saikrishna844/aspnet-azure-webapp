@@ -71,6 +71,7 @@ Hosting Plan	Azure App Service F1 Free
 
 Repository Structure: 
 
+```
 aspnet-azure-webapp/
 ├── .github/
 │   └── workflows/
@@ -87,10 +88,13 @@ aspnet-azure-webapp/
 ├── .gitignore
 └── README.md
 
+``` 
+
 Troubleshooting Experience
 
 During implementation, I diagnosed and resolved:
 
+```
 Azure App Service quota restrictions
 Razor @page build errors
 GitHub Actions build failures
@@ -107,15 +111,8 @@ Troubleshooting GitHub Actions failures
 Resolving Git conflicts through rebase
 Maintaining a clean and professional repository
 Controlling Azure costs with the F1 Free tier
-Author
 
+```
+Author
 Sai Krishna Vempati
 Azure Cloud & DevOps Engineer
-
-LinkedIn
-GitHub
-Technical Blog
-Certifications
-Microsoft Certified: Azure Administrator Associate — AZ-104
-Microsoft Certified: DevOps Engineer Expert — AZ-400
-ITIL 4 Foundation
