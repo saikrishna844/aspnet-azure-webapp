@@ -95,5 +95,5 @@ C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\We
 C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\ref\WebApplication3.dll
 C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\bin\Debug\net10.0\dotnet-tools.json
 C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\WebApplication3.sourcelink.json
-C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\compressed\er896jf3y0-{0}-2mb1604vu7-2mb1604vu7.gz
-C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\compressed\zvpxsst9g2-{0}-upups7o9d5-upups7o9d5.gz
+C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\compressed\er896jf3y0-{0}-fnqeyexuue-fnqeyexuue.gz
+C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\compressed\zvpxsst9g2-{0}-r9q19g1jm6-r9q19g1jm6.gz
