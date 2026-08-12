@@ -1,0 +1,8 @@
+C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Release\net10.0\PubTmp\Out\WebApplication3.exe
+C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Release\net10.0\PubTmp\Out\appsettings.json
+C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Release\net10.0\PubTmp\Out\dotnet-tools.json
+C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Release\net10.0\PubTmp\Out\WebApplication3.dll
+C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Release\net10.0\PubTmp\Out\WebApplication3.deps.json
+C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Release\net10.0\PubTmp\Out\WebApplication3.runtimeconfig.json
+C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Release\net10.0\PubTmp\Out\WebApplication3.pdb

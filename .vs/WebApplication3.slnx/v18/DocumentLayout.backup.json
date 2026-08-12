@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vemsa\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C51020-DE8A-4E34-99E5-E60EA7AA9B6F}|WebApplication3\\WebApplication3.csproj|c:\\users\\vemsa\\source\\repos\\webapplication3\\webapplication3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30C51020-DE8A-4E34-99E5-E60EA7AA9B6F}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C51020-DE8A-4E34-99E5-E60EA7AA9B6F}|WebApplication3\\WebApplication3.csproj|c:\\users\\vemsa\\source\\repos\\webapplication3\\webapplication3\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30C51020-DE8A-4E34-99E5-E60EA7AA9B6F}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C51020-DE8A-4E34-99E5-E60EA7AA9B6F}|WebApplication3\\WebApplication3.csproj|c:\\users\\vemsa\\source\\repos\\webapplication3\\webapplication3\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30C51020-DE8A-4E34-99E5-E60EA7AA9B6F}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vemsa\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vemsa\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-11T07:02:11.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\vemsa\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\vemsa\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-11T07:02:08.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\vemsa\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\vemsa\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-11T07:02:04.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

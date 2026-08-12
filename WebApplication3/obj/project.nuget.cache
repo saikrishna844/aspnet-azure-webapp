@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fksq1Qquq1M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vemsa\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vemsa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
