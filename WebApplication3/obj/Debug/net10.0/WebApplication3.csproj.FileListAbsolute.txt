@@ -21,9 +21,7 @@ C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\rj
 C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\scopedcss\bundle\WebApplication3.styles.css
 C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\scopedcss\projectbundle\WebApplication3.bundle.scp.css
-C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\compressed\er896jf3y0-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\compressed\oeelle30g5-{0}-61n19gt1b8-61n19gt1b8.gz
-C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\compressed\zvpxsst9g2-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\compressed\5o8p73c979-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\compressed\lsxs8l7gnu-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\compressed\b0ie60lyzo-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -96,3 +94,6 @@ C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\We
 C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\WebApplication3.genruntimeconfig.cache
 C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\ref\WebApplication3.dll
 C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\bin\Debug\net10.0\dotnet-tools.json
+C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\WebApplication3.sourcelink.json
+C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\compressed\er896jf3y0-{0}-2mb1604vu7-2mb1604vu7.gz
+C:\Users\vemsa\source\repos\WebApplication3\WebApplication3\obj\Debug\net10.0\compressed\zvpxsst9g2-{0}-upups7o9d5-upups7o9d5.gz

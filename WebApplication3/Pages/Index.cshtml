@@ -1,14 +1,146 @@
-﻿@page
+@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Sai Krishna | Azure Cloud & DevOps Engineer";
 }
 
-<div class="text-center">
-<<<<<<< HEAD
-    <h1 class="display-4">Welcome to the Sai App Service Enjoy</h1>
-=======
-    <h1 class="display-4">Welcome to the Sai App Service Enjoy the Service</h1>
->>>>>>> 4b39209 (Second Change)
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section class="hero section" id="home">
+    <div class="hero-glow hero-glow-one"></div>
+    <div class="hero-glow hero-glow-two"></div>
+    <div class="container hero-grid">
+        <div class="hero-copy reveal">
+            <span class="eyebrow"><span class="status-dot"></span> Open to Azure & DevOps opportunities</span>
+            <p class="hero-kicker">Hello, I’m</p>
+            <h1>Sai Krishna<br><span>Vempati.</span></h1>
+            <p class="hero-role">Azure Cloud &amp; DevOps Engineer</p>
+            <p class="hero-summary">I build reliable Azure infrastructure, automate deployments, and turn operational challenges into secure, repeatable cloud solutions.</p>
+            <div class="hero-actions">
+                <a class="button button-primary" href="#projects">Explore my work <span>→</span></a>
+                <a class="button button-secondary" href="https://www.linkedin.com/in/saikrishna-vempati" target="_blank" rel="noopener">Connect on LinkedIn</a>
+            </div>
+            <div class="hero-proof" aria-label="Professional highlights">
+                <div><strong>2.6</strong><span>Years of IT experience</span></div>
+                <div><strong>03</strong><span>Cloud &amp; IT certifications</span></div>
+                <div><strong>Azure</strong><span>Cloud-first engineering</span></div>
+            </div>
+        </div>
+
+        <div class="portrait-wrap reveal delay-1">
+            <div class="portrait-frame">
+                <img src="~/images/sai-krishna.jpeg" alt="Sai Krishna Vempati" />
+                <div class="portrait-tag">
+                    <span class="tag-icon">AZ</span>
+                    <span><small>Focused on</small>Cloud automation</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section section-muted" id="about">
+    <div class="container about-grid">
+        <div class="section-heading reveal">
+            <span class="section-number">01</span>
+            <p class="section-label">About me</p>
+            <h2>Cloud operations experience,<br>built for modern DevOps.</h2>
+        </div>
+        <div class="about-copy reveal delay-1">
+            <p class="lead">I’m an Azure Cloud and DevOps professional with 2.6 years of IT experience, including experience at HCLTech supporting Windows infrastructure and cloud operations.</p>
+            <p>I enjoy automating infrastructure with Terraform, building CI/CD pipelines, troubleshooting production issues, and improving reliability through monitoring and repeatable processes. I’m adaptable, curious, and committed to learning every layer of the systems I support.</p>
+            <div class="about-meta">
+                <div><span>Based in</span><strong>India</strong></div>
+                <div><span>Preferred location</span><strong>Hyderabad</strong></div>
+                <div><span>Focus</span><strong>Azure • DevOps • IaC</strong></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section" id="skills">
+    <div class="container">
+        <div class="section-heading reveal">
+            <span class="section-number">02</span>
+            <p class="section-label">Technical toolkit</p>
+            <h2>Tools I use to build,<br>automate and operate.</h2>
+        </div>
+        <div class="skills-grid">
+            <article class="skill-card reveal"><span>01</span><h3>Cloud</h3><p>Microsoft Azure, App Service, Virtual Machines, Storage, Entra ID, Azure Networking</p></article>
+            <article class="skill-card reveal delay-1"><span>02</span><h3>Infrastructure as Code</h3><p>Terraform, reusable modules, remote state, drift detection, provisioning workflows</p></article>
+            <article class="skill-card reveal delay-2"><span>03</span><h3>CI/CD &amp; Automation</h3><p>GitHub Actions, Azure DevOps, OIDC, Git, GitHub, Ansible, PowerShell</p></article>
+            <article class="skill-card reveal"><span>04</span><h3>Platforms</h3><p>Windows Server, Linux, Docker, Kubernetes fundamentals, ASP.NET deployments</p></article>
+            <article class="skill-card reveal delay-1"><span>05</span><h3>Operations</h3><p>Troubleshooting, monitoring, incident support, IAM, networking and change management</p></article>
+            <article class="skill-card reveal delay-2"><span>06</span><h3>Ways of Working</h3><p>ITIL practices, documentation, continuous improvement, collaboration and adaptability</p></article>
+        </div>
+    </div>
+</section>
+
+<section class="section section-muted" id="projects">
+    <div class="container">
+        <div class="section-heading reveal">
+            <span class="section-number">03</span>
+            <p class="section-label">Featured projects</p>
+            <h2>Practical cloud engineering,<br>documented end to end.</h2>
+        </div>
+        <div class="projects-list">
+            <article class="project-card reveal">
+                <div class="project-index">01</div>
+                <div class="project-content">
+                    <div class="project-tags"><span>Terraform</span><span>GitHub Actions</span><span>OIDC</span></div>
+                    <h3>Automated Azure Terraform Drift Detection</h3>
+                    <p>A secure scheduled workflow that detects differences between Terraform state and live Azure infrastructure, using federated identity instead of stored cloud credentials.</p>
+                    <a href="https://github.com/saikrishna844" target="_blank" rel="noopener">View on GitHub <span>↗</span></a>
+                </div>
+            </article>
+            <article class="project-card reveal">
+                <div class="project-index">02</div>
+                <div class="project-content">
+                    <div class="project-tags"><span>Azure</span><span>Terraform Modules</span><span>Multi-environment</span></div>
+                    <h3>Azure Multi-Environment Infrastructure Platform</h3>
+                    <p>A reusable Infrastructure as Code design that deploys consistent Azure environments from one modular Terraform codebase with environment-specific configuration.</p>
+                    <a href="https://github.com/saikrishna844" target="_blank" rel="noopener">Explore repositories <span>↗</span></a>
+                </div>
+            </article>
+            <article class="project-card reveal">
+                <div class="project-index">03</div>
+                <div class="project-content">
+                    <div class="project-tags"><span>ASP.NET</span><span>Azure App Service</span><span>CI/CD</span></div>
+                    <h3>Secure ASP.NET Delivery Pipeline</h3>
+                    <p>This portfolio is deployed automatically through GitHub Actions to Azure App Service. The pipeline builds, packages and authenticates to Azure using OIDC before deployment.</p>
+                    <a href="https://github.com/saikrishna844/aspnet-azure-webapp" target="_blank" rel="noopener">View source <span>↗</span></a>
+                </div>
+            </article>
+        </div>
+    </div>
+</section>
+
+<section class="section" id="certifications">
+    <div class="container">
+        <div class="section-heading reveal">
+            <span class="section-number">04</span>
+            <p class="section-label">Credentials</p>
+            <h2>Certified knowledge,<br>backed by hands-on work.</h2>
+        </div>
+        <div class="cert-grid">
+            <article class="cert-card reveal"><span class="cert-code">AZ-104</span><div><p>Microsoft Certified</p><h3>Azure Administrator Associate</h3></div></article>
+            <article class="cert-card reveal delay-1"><span class="cert-code">AZ-400</span><div><p>Microsoft Certified</p><h3>DevOps Engineer Expert</h3></div></article>
+            <article class="cert-card reveal delay-2"><span class="cert-code">ITIL</span><div><p>PeopleCert</p><h3>ITIL 4 Foundation</h3></div></article>
+        </div>
+    </div>
+</section>
+
+<section class="section contact-section" id="contact">
+    <div class="container contact-card reveal">
+        <div>
+            <span class="section-number">05</span>
+            <p class="section-label">Let’s connect</p>
+            <h2>Looking for an Azure or DevOps engineer?</h2>
+            <p>I’m open to Azure Cloud, DevOps, Cloud Administrator and Infrastructure Engineering opportunities.</p>
+        </div>
+        <div class="contact-actions">
+            <a class="button button-light" href="https://www.linkedin.com/in/saikrishna-vempati" target="_blank" rel="noopener">Message me on LinkedIn <span>→</span></a>
+            <a class="text-link" href="https://github.com/saikrishna844" target="_blank" rel="noopener">github.com/saikrishna844 ↗</a>
+            <a class="text-link" href="https://saikrishnavempati.hashnode.dev/" target="_blank" rel="noopener">Read my technical blog ↗</a>
+        </div>
+    </div>
+</section>
+
